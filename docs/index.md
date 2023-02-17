@@ -21,8 +21,8 @@
 <!-- ## Work Experience -->
 <h2 id="Work Experience"><font _mstmutation="1">Work Experience</font><a class="headerlink" href="" title="Permanent link"></a></h2>
 <ul>
-<li>07/2022, <u>Medical Image Segmentation</u>, The State Key Laboratory for Management and Control of Complex Systems, Institute of Automation, Chinese Academy of Sciences, <u>Mentor: Associate professor Xiao-Hu Zhou and Professor Zeng-Guang Hou (IEEE Fellow)</u></li>
-<li>12/2021, <u>Medical Image Generation</u>, The Smart Energy Technology Research Center, Chongqing University of Posts and Telecommunications , <u>Mentor: Associate professor Ming-Jie Liu and Professor Chang-Hao Piao (Chief scientist of National Key R&D Program of China, Ministry of Science and Technology of the People's Republic of China)</u></li>
+<li>07/2022, <u>Medical Image Segmentation</u>, The State Key Laboratory for Management and Control of Complex Systems, Institute of Automation, Chinese Academy of Sciences, <u>Mentor: Associate professor Xiao-Hu Zhou and Professor Zeng-Guang Hou</u></li>
+<li>12/2021, <u>Medical Image Generation</u>, The Smart Energy Technology Research Center, Chongqing University of Posts and Telecommunications , <u>Mentor: Associate professor Ming-Jie Liu and Professor Chang-Hao Piao</u></li>
 </ul>
 
 <!-- ## Publications -->
