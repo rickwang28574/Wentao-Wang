@@ -39,7 +39,7 @@
 <!-- ## Talents -->
 <h2 id="Talents"><font _mstmutation="1">Talents</font><a class="headerlink" href="" title="Permanent link"></a></h2>
 <ul>
-<li>Duolingo English Test <strong>115</strong></li>
+<li>Duolingo English Test <strong>110</strong></li>
 </ul>
 
 <!-- ## Awards -->
