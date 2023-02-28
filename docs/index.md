@@ -53,6 +53,7 @@
 <!-- ## Competitions -->
 <h2 id="Competitions"><font _mstmutation="1">Competitions</font><a class="headerlink" href="" title="Permanent link"></a></h2>
 <ul>
+<li>RSNA Screening Mammography Breast Cancer Detection, <strong>Bronze Prize (TOP 10%)</strong>, <strong>2023.02</strong></li>
 <li>HONG KONG CONTEMPORARY DESIGN AWARDS, <strong>Bronze Prize (TOP 10%)</strong>, <strong>2023.02</strong></li>
 <li>National College Students Innovation Ability Competition-Technology Innovation Track, <strong>Grand Prize (TOP 1)</strong>, <strong>2022.12</strong></li>
 </ul>
