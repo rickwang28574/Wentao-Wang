@@ -45,6 +45,7 @@
 <!-- ## Awards -->
 <h2 id="Awards"><font _mstmutation="1">Awards</font><a class="headerlink" href="" title="Permanent link"></a></h2>
 <ul>
+<li>China Volunteer Service Two-Star Volunteer <strong>2023</strong></li>
 <li>Outstanding individual of Chongqing University of posts and Telecommunications <strong>2022</strong></li>
 <li>Outstanding student leader of Chongqing University of posts and Telecommunications <strong>2021</strong></li>
 <li>Outstanding individual of Chongqing University of posts and Telecommunications <strong>2020</strong></li>
@@ -57,3 +58,5 @@
 <li>HONG KONG CONTEMPORARY DESIGN AWARDS, <strong>Bronze Prize (TOP 10%)</strong>, <strong>2023.02</strong></li>
 <li>National College Students Innovation Ability Competition-Technology Innovation Track, <strong>Grand Prize (TOP 1)</strong>, <strong>2022.12</strong></li>
 </ul>
+
+
