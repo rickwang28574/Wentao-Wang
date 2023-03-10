@@ -28,12 +28,13 @@
 <!-- ## Publications -->
 <h2 id="Publications"><font _mstmutation="1">Publications</font><a class="headerlink" href="" title="Permanent link"></a></h2>
 <ul>
-<li>Mingjie Liu, Wei Zou, <u>Wentao Wang</u>, Cheng-Bin Jin, Junsheng Chen, Changhao Piao. "Multi-Conditional Constraint Generative Adversarial Network-Based MR Imaging from CT Scan Data" Sensors, 05/2022</li>
+<li><u>Wentao Wang</u>, Xiao-Hu Zhou, Xiaoliang Xie, Shiqi Liu, De-Xing Huang, Tianyu Xiang, Hao Li, Zengguang Hou. "Double-blind anonymous manuscript" MICCAI 2023, <strong>03/2023 (Under review)</strong></li>
+<li>Mingjie Liu, Wei Zou, <u>Wentao Wang</u>, Cheng-Bin Jin, Junsheng Chen, Changhao Piao. "Multi-Conditional Constraint Generative Adversarial Network-Based MR Imaging from CT Scan Data" Sensors, <strong>05/2022 (Accept)</strong></li>
 </ul>
 
 <h2 id="Patents"><font _mstmutation="1">Patents</font><a class="headerlink" href="" title="Permanent link"></a></h2>
 <ul>
-<li>An infrared medical diagnosis robot, <u>First author</u> (Under review)</li>
+<li>An infrared medical diagnosis robot, <u>First author</u>, <strong>02/2023 (Under review)</strong></li>
 </ul>
 
 <!-- ## Talents -->
